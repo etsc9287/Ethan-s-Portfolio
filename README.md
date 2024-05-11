@@ -21,3 +21,16 @@ The objective of this project is to compare Kaggle.com's Python and R users, inc
 5. Using R Markdown to effectively communicate findings and create a comprehensive report.
 
 **Note:** This project was apart of a Kaggle analytics competition in which participants could choose any topic of focus to analyze from the survey.  My notebook was the 19th most liked in the competition and is currently my top Kaggle project.  My other projects involving Kaggle datasets can be found [here](https://www.kaggle.com/etsc9287/notebooks).
+
+## [Project #3: Analyzing Baseball's Spin Rate Revolution](https://etsc9287.medium.com/analyzing-baseballs-spin-rate-revolution-901e022ba60d)  
+
+In this project, I analyze the evolution of spin rates among MLB pitches over time, exploring any discernible patterns that may raise concerns regarding unfair play, particularly in light of the recent foreign substance scandal that has plagued Major League Baseball.  I posted my analyis as a Medium article which includes:
+
+1. Establishing the problem and explaining why spin rate is important and gaining significant attention in MLB media.
+2. Performing exploratory analysis pertaining to spin rate on variables including year, players, and ERA (earned run average).
+3. Using a Shapiro-Wilkes normality test to compare the distributions of spin rates across years, given the assumption that spin rates should follow a normal distribution.
+4. Using linear regression to determine how much spin rate affects pitcher performance in terms of ERA, answering the question of how pitchers are rewarded for (possibly) using foreign substances.
+5. Reporting findings based on the analyses.
+
+
+
